@@ -17,7 +17,7 @@ _mailinglist
 docs/_build/
 __pycache__
 .env_file
-
+cheatsheet
 # Coverage reports
 htmlcov/
 .coverage
@@ -27,3 +27,7 @@ htmlcov/
 # Direnv
 .envrc
 .direnv
+
+trust.json
+iam-role-policy.json
+educate credintials
