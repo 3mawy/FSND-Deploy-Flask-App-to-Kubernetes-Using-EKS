@@ -45,4 +45,3 @@ phases:
        
 artifacts:
   files: build.json
-  
